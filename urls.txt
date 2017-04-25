@@ -1,0 +1,7 @@
+http://google.com
+https://google.ru
+http://baidu.com
+https://veryveryevrybad.com
+http://
+
+http://microsoft.com
